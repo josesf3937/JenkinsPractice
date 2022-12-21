@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\JoseSeeronAnthonyPit\\source\\repos\\JenkinsPractice\\JenkinsPractice\\JenkinsPractice.csproj",
+      "projectUniqueName": "C:\\Users\\JoseSeeronAnthonyPit\\OneDrive - Syncfusion\\Desktop\\JenkinsPractice\\JenkinsPractice\\JenkinsPractice.csproj",
       "projectName": "JenkinsPractice",
-      "projectPath": "C:\\Users\\JoseSeeronAnthonyPit\\source\\repos\\JenkinsPractice\\JenkinsPractice\\JenkinsPractice.csproj",
+      "projectPath": "C:\\Users\\JoseSeeronAnthonyPit\\OneDrive - Syncfusion\\Desktop\\JenkinsPractice\\JenkinsPractice\\JenkinsPractice.csproj",
       "packagesPath": "C:\\Users\\JoseSeeronAnthonyPit\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\JoseSeeronAnthonyPit\\source\\repos\\JenkinsPractice\\JenkinsPractice\\obj\\",
+      "outputPath": "C:\\Users\\JoseSeeronAnthonyPit\\OneDrive - Syncfusion\\Desktop\\JenkinsPractice\\JenkinsPractice\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
